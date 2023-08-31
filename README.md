@@ -1,3 +1,5 @@
+## Forked it because I want to use it with svelte 4
+
 # svelte-dialogs
 
 handy dialogs in/for svelte, see some [examples](https://bibizio.github.io/svelte-dialogs/)
